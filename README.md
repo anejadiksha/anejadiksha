@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Aneja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anejadiksha" alt="anejadiksha" /></a> </p>
-
 - 🔭 I’m currently working on **myself**
 
 - 👯 I’m looking to collaborate on **projects**
